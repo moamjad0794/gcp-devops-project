@@ -1,1 +1,3 @@
-# This is a new repo for our GCP devops project
+# Docker Flask Application
+ - This is Python Application
+ - Can run on GCP
